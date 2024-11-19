@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-tag
+{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Your_Quote button
+{
+    transition: all 0.3s;
+    background-color: blue;
+    width: 300px ;
+}
+.Your_Quote button:hover
+{
+    background-color: green;
+}
